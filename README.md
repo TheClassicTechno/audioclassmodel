@@ -7,6 +7,7 @@ My CNN-Transformer model for environmental sound classification. It classifies 1
 <li> Materials Used to Develop Dataset + Model </li>
 <li> RALCT Model Architecture </li>
 <li> RALCT Model Code </li>
+<li> RALCT Model Results </li>
 <li> Saved RALCT Models in .h5 and TensorFlow Lite Format </li>
 
 
