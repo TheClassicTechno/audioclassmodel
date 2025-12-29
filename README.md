@@ -1,6 +1,8 @@
 # Audio Classification Model
 
-my independent research project inspired by my hearing impaired grandma. solo paper published in IYRC: past.the-iyrc.org/huang-julia.html
+my independent research project inspired by my hearing impaired grandma. solo paper published in IYRC: [past.the-iyrc.org/huang-julia.html](https://past.the-iyrc.org/huang-julia.html)
+
+
 Created custom CNN-Transformer model for environmental sound classification. It classifies 10 of the most common and critical types of urban sounds from the UrbanSound8K dataset.
 
 
